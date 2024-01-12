@@ -12,7 +12,7 @@ A brief description of what this project does and who it's for
 ## Screenshots
 
 ![Screenshot](./assets/data/screenshot_desktop.png)
-![Screenshot](./assets/data/screenshot_mobile.png)
+![Screenshot](./assets/data/./mobile_screenshot.png)
 
 
 ## Deployment
